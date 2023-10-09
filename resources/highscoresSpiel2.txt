@@ -1,0 +1,6 @@
+ASpieler
+30
+BSpieler
+20
+CSpieler
+10
