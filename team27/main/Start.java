@@ -1,5 +1,5 @@
 package team27.main;
-//Jonte Jakob 7380571
+
 import java.awt.BorderLayout;
 import java.awt.CardLayout;
 import java.awt.Color;
